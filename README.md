@@ -70,9 +70,11 @@
   <img height="50" src="https://i.imgur.com/txpTIuK.png"  />
 </div>
 
-#
+###
 
 <p align="left"><strong>Academic Education</strong></p>
+
+###
 
 <div>
   <img src="https://play-lh.googleusercontent.com/S70rI7VrwLic7_p-ax7iAOOopQhcPCzmqyLe5RLJmApTpkgTRaCwWsTNN1Uv1t_t3Pp5=w240-h480-rw" alt="FIAP Logo"
@@ -100,17 +102,11 @@
   Technologies: `Javascript`, `React`, `Typescript`, `HTML` ,`CSS`, `Git`,`Github`
 </div>
 
-#
+###
 
 <p><strong>Github</strong></p>
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Joaommsp&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Joaommsp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joaommsp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-#
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
