@@ -97,7 +97,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh4KW6CVd0xtcKjRF9GM1hzoHsYlLiYrjUTg&s" alt="Unirios Logo"
   min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
 
-  **CodeCademy** \
+  **Front-end Engineer** \
   [**CodeCademy**](https://www.codecademy.com/) \
   Technologies: `Javascript`, `React`, `Typescript`, `HTML` ,`CSS`, `Git`,`Github`
 </div>
