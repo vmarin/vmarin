@@ -67,7 +67,9 @@
 ###
 
 <div align="left">
-  <img height="50" src="https://i.imgur.com/txpTIuK.png"  />
+  <a href="https://vmarin.dev/" target="_blank">
+    <img height="50" src="https://i.imgur.com/txpTIuK.png"  />
+  </a>
 </div>
 
 ###
@@ -127,7 +129,7 @@
   <a href="https://www.instagram.com/qvinisr/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="+5511991513296" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=%2B5511991513296" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
