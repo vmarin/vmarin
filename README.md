@@ -72,7 +72,7 @@
 
 ###
 
-<p align="left"><strong>Academic Education</strong></p>
+<h2 align="left">Academic Education</h2>
 
 ###
 
@@ -104,7 +104,7 @@
 
 ###
 
-<p><strong>Github</strong></p>
+<h2 align="left">Github</h2>
 
 ###
 
